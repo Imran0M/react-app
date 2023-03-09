@@ -1,0 +1,42 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.bg{
+  background-color: blue;
+  /* margin: 20px; */
+  padding: 50px;
+}
+.card{
+  width: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: aliceblue;
+  color: black;
+  text-align: center;
+  /* display: flex; */
+  
+}
+.cad{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  width: 150px;
+  padding: 20px;
+  background-color: rgb(40, 40, 232);
+  color: white;
+  border-radius: 25px;
+  border: none;
+}
+.btn:hover{
+  margin: 2px;
+}
+.sp{
+  font-size: 40px
+}
+.card:hover{
+  margin: 2px;
+}
